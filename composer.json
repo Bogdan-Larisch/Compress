@@ -1,0 +1,15 @@
+{
+    "name": "bogdan/compress",
+    "autoload": {
+        "psr-4": {
+            "Bogdan\\Compress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bogdan Larisch",
+            "email": "larisch@wp.pl"
+        }
+    ],
+    "require": {}
+}
