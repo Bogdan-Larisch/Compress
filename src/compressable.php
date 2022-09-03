@@ -1,6 +1,9 @@
 namespace nsCompress;
 
+interface ICompressedData {
+}
+
 interface ICompresable {
-	public String Compress(String $str) ;
-	public String Decompress(String $str);
+	public ICompressedData Compress(String $str) ;
+	public String Decompress(ICompressedData $data);
 }
