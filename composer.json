@@ -11,5 +11,6 @@
             "email": "larisch@wp.pl"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev"
 }
