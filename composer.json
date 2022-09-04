@@ -1,6 +1,6 @@
 {
     "name": "bogdan/compress",
-    "type": "library",
+    "version": dev,
     "autoload": {
         "psr-4": {
             "Bogdan\\Compress\\": "src/"
