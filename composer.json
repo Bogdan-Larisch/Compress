@@ -2,7 +2,7 @@
     "name": "bogdan-larisch/compress",
     "autoload": {
         "psr-4": {
-            "Bogdan-Larisch\\Compress\\": "src/"
+            "bogdan-larisch\\compress\\": "src/"
         }
     },
     "authors": [
