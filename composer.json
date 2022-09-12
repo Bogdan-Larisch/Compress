@@ -1,5 +1,5 @@
 {
-    "name": "Bogdan-Larisch/Compress",
+    "name": "bogdan-larisch/compress",
     "autoload": {
         "psr-4": {
             "Bogdan-Larisch\\Compress\\": "src/"
