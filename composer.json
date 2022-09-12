@@ -1,8 +1,8 @@
 {
-    "name": "bogdan/compress",
+    "name": "Bogdan-Larisch/Compress",
     "autoload": {
         "psr-4": {
-            "Bogdan\\Compress\\": "src/"
+            "Bogdan-Larisch\\Compress\\": "src/"
         }
     },
     "authors": [
