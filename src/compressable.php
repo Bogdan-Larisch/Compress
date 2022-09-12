@@ -5,6 +5,7 @@ interface ICompressedData {
 
 interface IBinaryTree {
 	public Add();
+	public Find();
 }
 
 interface ICompresable {
